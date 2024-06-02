@@ -2,7 +2,7 @@
 
 ### Embedded Video (Google Drive)
 ![Mobile View](images/thumbnail.png);
-[![Video Title](https://drive.google.com/uc?export=download&id=1VXRLQbeQ768xnQVFPrXc0NAM7QLEIrEr/preview)](https://drive.google.com/file/d/1VXRLQbeQ768xnQVFPrXc0NAM7QLEIrEr/view)
+[![Click here to play video](https://drive.google.com/uc?export=download&id=1VXRLQbeQ768xnQVFPrXc0NAM7QLEIrEr/preview)](https://drive.google.com/file/d/1VXRLQbeQ768xnQVFPrXc0NAM7QLEIrEr/view)
 
 
 ## Table of Contents
