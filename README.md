@@ -1,6 +1,8 @@
 # Fyle Assignment
 
-<iframe src="https://drive.google.com/file/d/1VXRLQbeQ768xnQVFPrXc0NAM7QLEIrEr/view?usp=sharing" width="640" height="480">
+### Embedded Video (Google Drive)
+[![Video Title](https://drive.google.com/uc?export=download&id=1VXRLQbeQ768xnQVFPrXc0NAM7QLEIrEr)](https://drive.google.com/file/d/1VXRLQbeQ768xnQVFPrXc0NAM7QLEIrEr/view)
+
 
 ## Table of Contents
 
